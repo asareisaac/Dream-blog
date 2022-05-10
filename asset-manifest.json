@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dream-blog/static/css/main.99e30ae0.css",
+    "main.js": "/Dream-blog/static/js/main.a368f8f5.js",
+    "static/js/787.c313a1f2.chunk.js": "/Dream-blog/static/js/787.c313a1f2.chunk.js",
+    "static/media/IMG-20220201-WA0088.jpg": "/Dream-blog/static/media/IMG-20220201-WA0088.799ed5a59c79ec6808df.jpg",
+    "index.html": "/Dream-blog/index.html",
+    "main.99e30ae0.css.map": "/Dream-blog/static/css/main.99e30ae0.css.map",
+    "main.a368f8f5.js.map": "/Dream-blog/static/js/main.a368f8f5.js.map",
+    "787.c313a1f2.chunk.js.map": "/Dream-blog/static/js/787.c313a1f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e30ae0.css",
+    "static/js/main.a368f8f5.js"
+  ]
+}
