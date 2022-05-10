@@ -1,0 +1,119 @@
+*{
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #333;
+  background-image: 
+  url("images.img/IMG-20220201-WA0088.jpg");
+  background-color: beige;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: medium;
+  font-style: bold; 
+}
+
+.menu{
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2; 
+}
+.menu h1{
+  color:black;
+  font-size: x-large;
+  font-weight: 100;
+}
+
+.menu .links{
+  margin-left: auto;
+}
+
+.menu a{
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+
+.menu a:hover{
+  color : #a1f6fc
+  
+}
+
+.content{
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.blog-preview{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+
+.blog-preview:hover{
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+  border-style:inherit;
+  
+}
+
+.blog-preview h2{
+  font-size: 25px;
+  color: #141414;
+  margin-bottom: 8px;
+  
+}
+.blog-preview a{
+  text-decoration: none;
+}
+.blog-details h2{
+  margin: 20px 0;
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 10px;
+}
+.blog-details div{
+  margin: 20px 0;
+}.Create h2{
+  border-bottom: 1px solid whitesmoke;
+  font-size: 20px;
+  font-weight: 500px;
+  line-height: 23px;
+  padding: 10px;
+  text-align: center;
+}
+form{
+  background: #f2f2f2;
+  border: 1px solid #dedede;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: auto;
+  max-width: 500px;
+  padding: 30px 50px;
+  margin-bottom: 6px;
+}
+input{
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 4px;
+  width: 100%;
+}
+label{
+  color: #333;
+  display: block;
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  padding: 6px;
+}
+textarea{
+  padding: 35px;
+}
+button{
+  font-size: 14px;
+  background-color: #6976d9;
+  margin: 20px 0px;
+  box-sizing: border-box;
+}
